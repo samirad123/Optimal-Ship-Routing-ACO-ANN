@@ -1,0 +1,3 @@
+Start Port,End Port,Distance (NM),Travel Time (Days),Weather Conditions,Traffic Density,Fuel Consumption (Tons),Route Cost ($),Optimal Route
+Mumbai,Cochin,765,2.5,Moderate,High,100,"50,000",Route A
+Mormugao,Mangalore,376,1.2,Calm,Low,45,"25,000",Route B
